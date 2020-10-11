@@ -1,0 +1,181 @@
+.box-sintomas-y-prevencion{
+    position: relative;
+    text-align: left;
+    width: 1220px;
+    margin-left: -100px;
+}
+
+#titulo{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#nombre-de-la-empresa{
+    font-family: 'Nothing You Could Do', cursive;
+    position: absolute;
+    text-align: left;
+    font-size: 40px;
+    top: -45px;
+    left: 35px;
+    height: 50px;
+    width: 48px; 
+}
+
+#encabezado-sintomas, #encabezado-prevencion{
+    font-family: 'Playfair Display SC', serif;
+    height: auto;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 60px;
+    margin-left: 100px;
+}
+
+#titulo-fiebre{
+    padding-left: 170px;
+}
+
+#titulo-tos{
+    padding-left: 650px;
+    margin-top: -30px;
+}
+
+#titulo-cansancio{
+    padding-left: 1080px;
+    margin-top: -30px;
+}
+
+#titulo-molestias-y-dolores{
+    padding-left: 140px;
+}
+
+#titulo-dolor-de-garganta{
+    padding-left: 610px;
+    margin-top: -30px;
+}
+
+#titulo-dolor-de-cabeza{
+    padding-left: 1060px;
+    margin-top: -30px;
+}
+
+#titulo-lavarte-las-manos{
+    text-align: center;
+    margin-top: 300px;
+    margin-right: 800px;
+}
+
+#titulo-uso-del-cubrebocas{
+    text-align: center;
+    margin-top: -60px;
+    margin-left: 95px;
+}
+
+#titulo-sana-distancia{
+    text-align: center;
+    padding-left: 980px;
+    margin-top: -40px;
+}
+
+#img-fiebre, #img-malestar{
+    height: 200px;
+    width: 200px;
+    padding-left: 100px;
+}
+
+#img-tos, #img-dolor-de-garganta{
+    height: 200px;
+    width: 200px;
+    padding-left: 276px;
+    margin-top: -250px;
+}
+
+#img-cansancio{
+    position: absolute;
+    height: 230px;
+    width: 180px;
+    padding-left: 255px;
+    margin-top: -10px;
+}
+
+#img-dolor-de-cabeza{
+    position: absolute;
+    height: 230px;
+    width: 220px;
+    padding-left: 220px;
+    margin-top: -5px;
+}
+
+#img-lavado-de-manos, #img-uso-del-cubrebocas{
+    position:absolute;
+    height: 250px;
+    width: 240px;
+    padding-left: 100px;
+}
+
+#img-uso-del-cubrebocas{
+    position:absolute;
+    height: 250px;
+    width: 240px;
+    padding-left: 550px;
+}
+
+#img-sana-distancia{
+    position:absolute;
+    height: 230px;
+    width: 250px;
+    padding-left: 990px;
+    margin-top: 40px;
+}
+
+#img-coronavirus{
+    width: 400px;
+    height: 300px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+#titulo-coronavirus{
+    color: grey;
+    position: absolute;
+    width: 85px;
+    right: 323px;
+    top: 480px;
+}
+
+#informacion-covid{
+    font-family: 'Inconsolata', monospace;
+    text-align: justify;
+    margin-left: 100px;
+    margin-top: -50px;
+    padding-top: 40px;
+    padding-left: 100px;
+}
+
+#division{
+    height: 50px;
+    margin-top: 80px;
+    margin-left: 100px;
+}
+
+#menu{
+    text-align: justify;
+    position: absolute;
+    width: 165px;
+    height: 1300px;
+    margin-top: 130px;
+    margin-left: 10px;
+}
+
+.indice{
+    text-align: center
+}
+
+a{
+    color: blue;
+    text-decoration: none;
+    font-family: 'Indie Flower', cursive;
+}
+
+a:hover{
+    color: green;
+}

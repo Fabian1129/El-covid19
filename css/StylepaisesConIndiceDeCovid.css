@@ -1,0 +1,130 @@
+#titulo{
+    font-family: 'Nunito', sans-serif;
+    text-align: center;
+    position: static;
+    width: 1150px;
+    height: 50px;
+    margin-left: 191px;
+}
+
+h4{
+    text-align: center;
+    font-size: 22px;
+    margin-top: 50px;
+    margin-bottom: 60px;
+}
+
+#informacion-covid{
+    font-family: 'Inconsolata', monospace;
+    text-align: justify;
+    width: auto;
+    height: auto; 
+    font-size: 17px;
+    margin-left: 191px;
+}
+
+#img-paises-de-latino-america{
+    width: 550px;
+    height: 320px;
+    margin-left: 20px;
+    margin-top: -20px;
+}
+
+#img-mexico-con-casos-de-covid{
+    width: 550px;
+    height: 320px;
+    margin-right: 20px;
+    margin-top: -10px;
+}
+
+#titulo-img-paises-latino-americanos{
+    color: grey;
+    text-align: justify;
+    font-size: 15px;
+    width: 550px;
+    height: auto; 
+    margin-left: 592px;
+    margin-top: -78px;
+}
+
+#titulo-img-casos-covidMx{
+    color: grey;
+    text-align: center;
+    font-size: 15px;
+    width: 550px;
+    height: auto;
+    margin-left: 0;
+    margin-top: -100px;
+}
+
+.listas-de-los-paises{
+    margin-left: 40px;
+    margin-top: 30px;
+    margin-right: 650px;
+    font-size: 17px;
+}
+
+.items-pares{
+    background-color: ghostwhite;
+    overflow: hidden;
+    height: 45px;
+}
+
+li{
+    position: relative;
+    display: block;
+    left: 15px;
+    margin-top: 14px;
+}
+
+.items-impares{
+    background-color: navajowhite;
+    overflow: hidden;
+    height: 45px;
+}
+
+#menu{
+    text-align: justify;
+    position: absolute; 
+    width: 165px;
+    height: 1300px;
+    margin-left: 8px;
+}
+
+.indice{
+    text-align: center;
+    font-family: 'Source Code Pro', monospace;
+}
+
+a{
+    color: blue;
+    text-decoration: none;
+    font-family: 'Indie Flower', cursive;
+}
+a:hover{
+    color: green;
+}
+
+table{
+    position: absolute;
+    left: 300px;
+    width: 800px;
+    font-size: 19px;
+    border-radius: 15px;
+}
+.casos{
+    text-align: center
+}
+
+.muertes{
+    text-align: center
+}
+#nombre-de-la-empresa{
+    font-family: 'Nothing You Could Do', cursive;
+    position: absolute;
+    font-size: 40px;
+    top: -50px;
+    left: 35px;
+    height: 50px;
+    width: 48px; 
+}
